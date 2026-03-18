@@ -1,0 +1,2 @@
+Added content in a2.txt from master
+Added content in a2.txt from feature2
